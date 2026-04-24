@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ericco90.github.io/Viona-Production/sitemap.xml
